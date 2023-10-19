@@ -36,7 +36,7 @@ const props = { multiple: true }
 const options = [
   {
     value: 1,
-    label: 'Asia',
+    label: '服务管理',
     children: [
       {
         value: 2,
